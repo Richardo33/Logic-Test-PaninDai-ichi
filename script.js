@@ -28,6 +28,6 @@ function generateOutput() {
       outputDiv.appendChild(divElement);
     });
   } else {
-    alert("Masukkan angka yang valid!");
+    alert("Masukkan angka");
   }
 }
